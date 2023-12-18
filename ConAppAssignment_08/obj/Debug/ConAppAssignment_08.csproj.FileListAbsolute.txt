@@ -1,0 +1,7 @@
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\bin\Debug\ConAppAssignment_08.exe.config
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\bin\Debug\ConAppAssignment_08.exe
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\bin\Debug\ConAppAssignment_08.pdb
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\obj\Debug\ConAppAssignment_08.csproj.AssemblyReference.cache
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\obj\Debug\ConAppAssignment_08.csproj.CoreCompileInputs.cache
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\obj\Debug\ConAppAssignment_08.exe
+C:\SQLExercises\Assignment-8\ConAppAssignment_08\ConAppAssignment_08\obj\Debug\ConAppAssignment_08.pdb
